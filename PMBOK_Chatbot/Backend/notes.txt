@@ -1,6 +1,0 @@
-       <nav>
-          <ul>
-            <li><a href="/">Questions</a></li>
-            <li><a href="/chatbot">Chatbot</a></li>
-          </ul>
-        </nav> 
